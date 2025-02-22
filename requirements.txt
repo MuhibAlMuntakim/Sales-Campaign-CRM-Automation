@@ -1,0 +1,7 @@
+crewai
+crewai-tools
+openai 
+requests 
+email-validator 
+python-dotenv
+apscheduler
